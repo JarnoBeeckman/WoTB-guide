@@ -1,0 +1,92 @@
+html {
+    background-color: black;
+    color: white;
+    font-size: larger;
+    overflow: auto;
+}
+
+
+nav {
+    margin-bottom: 0px;
+    
+   
+}
+ul {
+    list-style: none;
+    display: flex;
+   margin-left: 0em;
+   padding: 0px;
+   margin-bottom: 0px;
+   
+}
+li {
+    
+    display: inline-block;
+    margin: 0px;
+    border: 1px solid white;
+    padding: 10px 15px;
+    text-align: center;
+    flex-shrink: 0;
+    
+}
+li:hover {
+    background-color: gray;
+}
+
+#box {
+    background-color: dimgray;
+    margin-top: 0px;
+    border: 1px solid white;
+    border-top: hidden;
+    display: inline-block;
+    padding-left: 15px;
+    width: 1686px;
+    
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+#intro:hover {
+    text-decoration: underline;
+}
+#basics {
+    background-color: dimgray;
+    border-bottom: hidden;
+}
+#tech {
+    background-color: dimgray;
+    border-bottom: hidden;
+}
+#pro {
+    background-color: dimgray;
+    border-bottom: hidden;
+}
+#start{
+    background-color: dimgray;
+    border-bottom: hidden;
+}
+#map{
+    background-color: dimgray;
+    border-bottom: hidden;
+}
+#read{
+    background-color: dimgray;
+    border-bottom: hidden;
+}
+#aim{
+    background-color: dimgray;
+    border-bottom: hidden;
+}
+#advanced{
+    background-color: dimgray;
+    border-bottom: hidden;
+}
+#activity{
+    background-color: dimgray;
+    border-bottom: hidden;
+}
+#priority{
+    background-color: dimgray;
+    border-bottom: hidden;
+}
